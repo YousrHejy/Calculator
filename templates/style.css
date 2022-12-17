@@ -6,7 +6,7 @@
 
 body {
   min-height: 100vh;
-  background: #f1e0c9;
+  background: #9ecef3fc;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,4 +72,5 @@ button {
 .btn-clear {
   background: rgb(142, 31, 3);
   color: #fff;
+  width: 80px;
 }
