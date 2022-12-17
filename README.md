@@ -15,5 +15,5 @@ A basic functional calculator that do arthematic Operations like:
 
 ## Screenshots
 
-![App](https://ibb.co/7K4RbzV)
+![](images/app.png)
 
